@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+i'm Gachon University student
+
 <!--
 **ga-ch-Y-B/ga-ch-Y-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
